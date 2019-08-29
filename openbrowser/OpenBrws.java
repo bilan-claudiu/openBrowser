@@ -11,6 +11,8 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
 
+
+// open browser app//
 public class OpenBrws {
 
 	static WebDriver driver;
